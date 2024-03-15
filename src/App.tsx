@@ -1,13 +1,15 @@
 
+import { Route, Routes } from 'react-router-dom'
 import Index from './landing/Index'
 
 function App() {
 
 
   return (
-    <>
-      <Index />
-    </>
+    <Routes>
+      <Route path="/" element={<Index />} />
+
+    </Routes>
   )
 }
 

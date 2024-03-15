@@ -12,6 +12,7 @@
 body {
 	font-family: "Open Sans", sans-serif;
 	color: #444444;
+	background-color: #0000;
 }
 
 a {
@@ -83,20 +84,8 @@ h6 {
 	background: #151515;
 }
 
-#preloader:before {
-	content: "";
-	position: fixed;
-	top: calc(50% - 0px);
-	left: calc(50% - 30px);
-	border: 6px solid #ffc451;
-	border-top-color: #151515;
-	border-bottom-color: #151515;
-	border-radius: 50%;
-	width: 60px;
-	height: 60px;
-	animation: animate-preloader 1s linear infinite;
-}
-
+/*  */
+/* 
 @keyframes animate-preloader {
 	0% {
 		transform: rotate(0deg);
@@ -105,7 +94,7 @@ h6 {
 	100% {
 		transform: rotate(360deg);
 	}
-}
+} */
 
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
@@ -123,6 +112,7 @@ h6 {
 	transition: all 0.5s;
 	z-index: 997;
 	padding: 15px 0;
+	background-color: #0000;
 }
 
 #header.header-scrolled,
@@ -131,13 +121,13 @@ h6 {
 }
 
 #header .logo {
-	font-size: 32px;
+	font-size: 22px;
 	margin: 0;
 	padding: 0;
 	line-height: 1;
 	font-weight: 700;
-	letter-spacing: 2px;
-	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	/* text-transform: uppercase; */
 }
 
 #header .logo a {

@@ -6,24 +6,13 @@
 
 		<title>Nsukka Brothers' Club</title>
 		<meta content="" name="description" />
-		<meta content="" name="keywords" />
+		<meta content="" name="Nsukka brothers Club, Nsukka, " />
 
 		<!-- Favicons -->
-		<link
-			rel="apple-touch-icon"
-			sizes="180x180"
-			href="/favicon_io/apple-touch-icon.ico" />
-		<link
-			rel="icon"
-			type="image/png"
-			sizes="32x32"
-			href="/favicon_io/favicon-32x32.ico" />
-		<link
-			rel="icon"
-			type="image/png"
-			sizes="16x16"
-			href="/favicon_io/favicon-16x16.ico" />
-		<link rel="manifest" href="/favicon_io/site.webmanifest" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.ico" />
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.ico" />
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.ico" />
+		<link rel="manifest" href="/site.webmanifest" />
 
 		<!-- Google Fonts -->
 		<link
@@ -49,10 +38,102 @@
 		<link href="assets/css/style.css" rel="stylesheet" />
 		<!-- <link rel="icon" type="image/svg+xml" href="/vite.svg" /> -->
 		<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
+
+		<style>
+			body #splash-screen {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				justify-content: center;
+				position: fixed;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				background-color: #0000;
+				color: #f9fafb;
+				z-index: 999999;
+				pointer-events: none;
+				opacity: 1;
+				visibility: visible;
+				transition: opacity 400ms cubic-bezier(0.4, 0, 0.2, 1);
+			}
+
+			body #splash-screen img {
+				width: 120px;
+				max-width: 120px;
+			}
+
+			#spinner {
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				margin-top: 40px;
+				width: 56px;
+			}
+
+			#spinner > div {
+				width: 12px;
+				height: 12px;
+				background-color: #ffbf00;
+				border-radius: 100%;
+				display: inline-block;
+				-webkit-animation: educenty-bouncedelay 1s infinite ease-in-out both;
+				animation: educenty-bouncedelay 1s infinite ease-in-out both;
+			}
+
+			#spinner .bounce1 {
+				-webkit-animation-delay: -0.32s;
+				animation-delay: -0.32s;
+			}
+
+			#spinner .bounce2 {
+				-webkit-animation-delay: -0.16s;
+				animation-delay: -0.16s;
+			}
+
+			@-webkit-keyframes educenty-bouncedelay {
+				0%,
+				80%,
+				100% {
+					-webkit-transform: scale(0);
+				}
+				40% {
+					-webkit-transform: scale(1);
+				}
+			}
+
+			@keyframes educenty-bouncedelay {
+				0%,
+				80%,
+				100% {
+					-webkit-transform: scale(0);
+					transform: scale(0);
+				}
+				40% {
+					-webkit-transform: scale(1);
+					transform: scale(1);
+				}
+			}
+		</style>
 	</head>
 	<body>
 		<div id="root"></div>
-		<div id="preloader"></div>
+		<!-- Splash Screen -->
+		<div id="preloader">
+			<div id="splash-screen">
+				<div class="logo">
+					<img width="128" src="assets/img/eagle.gif" alt="logo" />
+				</div>
+				<!-- <p>processing...</p> -->
+				<div id="spinner">
+					<div class="bounce1"></div>
+					<div class="bounce2"></div>
+					<div class="bounce3"></div>
+				</div>
+			</div>
+		</div>
+		<!-- / Splash Screen -->
 		<a
 			href="#"
 			class="back-to-top d-flex align-items-center justify-content-center"
