@@ -7,7 +7,7 @@ function Header() {
             <div className="container d-flex align-items-center justify-content-lg-between">
                 <h1 className="logo me-auto me-lg-0">
                     <img src="assets/img/eagle.gif" alt="" className="img-fluid" />
-                    <a href="">Nsukka <span>Brothers' Club</span></a>
+                    <Link to="/">Nsukka <span>Brothers' Club</span></Link>
                 </h1>
                 {/* Uncomment below if you prefer to use an image logo */}
                 {/* <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>*/}
