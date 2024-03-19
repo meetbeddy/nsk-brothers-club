@@ -20,7 +20,7 @@ function Header() {
 
                                 <li><Link to="/about/members">Members</Link></li>
                                 <li><Link to="/about/executives">Executive Members</Link></li>
-                                <li><a href="/about/past-excos">Past Executives</a></li>
+                                <li><Link to="/about/past-excos">Past Executives</Link></li>
 
 
                             </ul>
