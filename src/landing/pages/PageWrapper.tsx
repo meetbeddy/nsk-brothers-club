@@ -1,5 +1,6 @@
 import React, { ReactNode } from "react";
 import Header from "../header/Header";
+import Footer from "../footer/Footer";
 
 interface PageWrapperProps {
     children: ReactNode;
@@ -16,7 +17,7 @@ function PageWrapper(props: PageWrapperProps) {
                     </div>
                 </section>
             </main>
-            {/* <Footer /> */}
+            <Footer />
         </div>
     );
 }

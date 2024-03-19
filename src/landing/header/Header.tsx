@@ -18,9 +18,9 @@ function Header() {
                             <a href="#"><span>About us</span> <i className="bi bi-chevron-down" /></a>
                             <ul>
 
-                                <li><Link to="/about/members">Members</Link></li>
-                                <li><Link to="/about/executives">Executive Members</Link></li>
-                                <li><Link to="/about/past-excos">Past Executives</Link></li>
+                                <li><Link to="/members">Members</Link></li>
+                                <li><Link to="/executives">Executive Members</Link></li>
+                                <li><Link to="/past-excos">Past Executives</Link></li>
 
 
                             </ul>
