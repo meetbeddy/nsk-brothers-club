@@ -13,9 +13,9 @@ function Members() {
                     </div>
                     <div className="row d-flex flex-wrap justify-content-center align-items-center">
                         {
-                            data.members.map((member) => {
+                            data.members.map((member, index) => {
                                 return (
-                                    <div className="col-lg-2 mb-4">
+                                    <div className="col-lg-2 mb-4" key={index}>
                                         {/* Row */}
                                         <div className="row">
                                             <div className="col-md-12">
@@ -24,8 +24,6 @@ function Members() {
                                             <div className="col-md-12 text-center">
                                                 <div className="pt-2">
                                                     <p className="mt-4 font-weight-medium mb-0">{member.name}</p>
-
-
                                                 </div>
                                             </div>
                                         </div>
