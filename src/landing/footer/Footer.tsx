@@ -12,8 +12,9 @@ function Footer() {
                                 <p>
                                     No. 4 Canaan drive, Canaan Estate<br />
                                     Life Camp Ext, Abuja <br /><br />
-                                    <strong>Phone:</strong> +1 5589 55488 55<br />
-                                    <strong>Email:</strong> info@example.com<br />
+                                    <strong>Phone:</strong> +234 803 704 5161
+                                    <br />
+                                    <strong>Email:</strong>nsukkabrothers8@gmail.com<br />
                                 </p>
                                 {/* <div className="social-links mt-3">
                                     <a href="#" className="twitter"><i className="bx bxl-twitter" /></a>

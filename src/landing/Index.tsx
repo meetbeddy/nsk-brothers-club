@@ -6,6 +6,7 @@ import Header from './header/Header'
 import Hero from './hero/Hero'
 
 import data from "../data"
+import Contact from './contact/Contact'
 
 function Index() {
 
@@ -16,6 +17,7 @@ function Index() {
             <main id="main">
                 <About />
                 <Board boardMembers={data.boardOfTrustees} />
+                <Contact />
             </main>
             <Footer />
         </div>
