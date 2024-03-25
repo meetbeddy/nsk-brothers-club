@@ -5,6 +5,8 @@ import Swal from "sweetalert2";
 function Contact() {
     const form = useRef<HTMLFormElement>(null);
 
+
+
     const SERVICE_ID: string = 'service_pw3rfyf';
     const TEMPLATE_ID: string = "template_sax5gfv";
     const PUBLIC_KEY: string = "byep6puCeHiqd5F3f";
@@ -13,7 +15,6 @@ function Contact() {
         e.preventDefault();
 
         if (!form.current) return;
-
 
         emailjs
             .sendForm(SERVICE_ID, TEMPLATE_ID, form.current, {
@@ -28,8 +29,12 @@ function Contact() {
                         title: "Successful",
                         text: "message sent successfully!",
                     });
+
+
+                    form.current?.reset(); // Reset form fields
                 },
                 (error) => {
+                    console.error('FAILED...', error.text);
 
                     Swal.fire({
                         icon: "error",
@@ -39,6 +44,7 @@ function Contact() {
                 },
             );
     };
+
 
     return (
         <section id="contact" className="contact">
@@ -103,13 +109,7 @@ function Contact() {
                             <div className="form-group mt-3">
                                 <textarea className="form-control" name="message" rows={5} placeholder="Message" required defaultValue={""} />
                             </div>
-                            <div className="my-3">
-                                <div className="loading">Loading</div>
-                                <div className="error-message" />
-                                <div className="sent-message">
-                                    Your message has been sent. Thank you!
-                                </div>
-                            </div>
+
                             <div className="text-center">
                                 <button type="submit">Send Message</button>
                             </div>
