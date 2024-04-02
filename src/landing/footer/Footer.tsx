@@ -8,7 +8,7 @@ function Footer() {
                     <div className="row">
                         <div className="col-lg-3 col-md-6">
                             <div className="footer-info">
-                                <h3>Nsukka<span>Brothers' Club</span></h3>
+                                <h3>Nsukka <span>Brothers' Club</span></h3>
                                 <p>
                                     No. 4 Canaan drive, Canaan Estate<br />
                                     Life Camp Ext, Abuja <br /><br />
@@ -47,52 +47,19 @@ function Footer() {
                                 </li>
                             </ul>
                         </div>
-                        <div className="col-lg-3 col-md-6 footer-links">
-                            <h4>Our Services</h4>
-                            <ul>
-                                <li>
-                                    <i className="bx bx-chevron-right" /> <a href="#">Web Design</a>
-                                </li>
-                                <li>
-                                    <i className="bx bx-chevron-right" />
-                                    <a href="#">Web Development</a>
-                                </li>
-                                <li>
-                                    <i className="bx bx-chevron-right" />
-                                    <a href="#">Product Management</a>
-                                </li>
-                                <li>
-                                    <i className="bx bx-chevron-right" /> <a href="#">Marketing</a>
-                                </li>
-                                <li>
-                                    <i className="bx bx-chevron-right" />
-                                    <a href="#">Graphic Design</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div className="col-lg-4 col-md-6 footer-newsletter">
-                            <h4>Our Newsletter</h4>
-                            <p>
-                                Tamen quem nulla quae legam multos aute sint culpa legam noster
-                                magna
-                            </p>
-                            <form>
-                                <input type="email" name="email" /><input type="submit" defaultValue="Subscribe" />
-                            </form>
-                        </div>
+
+
                     </div>
                 </div>
             </div>
             <div className="container">
                 <div className="copyright">
-                    © Copyright <strong><span>Gp</span></strong>. All Rights Reserved
+                    © Copyright <strong><span>Nsukka Brothers' Club</span></strong>. All Rights Reserved
                 </div>
-                <div className="credits">
-                    {/* All the links in the footer should remain intact. */}
-                    {/* You can delete the links only if you purchased the pro version. */}
-                    {/* Licensing information: https://bootstrapmade.com/license/ */}
+                {/* <div className="credits">
+
                     Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-                </div>
+                </div> */}
             </div>
         </footer>
 

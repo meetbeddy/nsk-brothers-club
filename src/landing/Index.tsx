@@ -7,6 +7,8 @@ import Hero from './hero/Hero'
 
 import data from "../data"
 import Contact from './contact/Contact'
+import Mission from './mission/Mission'
+import Gallery from './gallery/Gallery'
 
 function Index() {
 
@@ -16,7 +18,9 @@ function Index() {
             <Hero />
             <main id="main">
                 <About />
+                <Mission />
                 <Board boardMembers={data.boardOfTrustees} />
+                <Gallery />
                 <Contact />
             </main>
             <Footer />
