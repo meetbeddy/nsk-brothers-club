@@ -9,38 +9,17 @@ function Hero() {
                         <h2>Celebrating Heritage, Building Community.</h2>
                     </div>
                 </div>
-                <div className="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay={250}>
-                    <div className="col-xl-2 col-md-4">
-                        <div className="icon-box">
-                            <i className="ri-store-line" />
-                            <h3><a href="">Lorem Ipsum</a></h3>
-                        </div>
-                    </div>
-                    <div className="col-xl-2 col-md-4">
-                        <div className="icon-box">
-                            <i className="ri-bar-chart-box-line" />
-                            <h3><a href="">Dolor Sitema</a></h3>
-                        </div>
-                    </div>
-                    <div className="col-xl-2 col-md-4">
+                {/* <div className="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay={250}>
+
+
+                    <div className="col-xl-2 col-md-6">
                         <div className="icon-box">
                             <i className="ri-calendar-todo-line" />
-                            <h3><a href="">Sedare Perspiciatis</a></h3>
+                            <h3><a href="">Meets Every Last Sunday of the month</a></h3>
                         </div>
                     </div>
-                    <div className="col-xl-2 col-md-4">
-                        <div className="icon-box">
-                            <i className="ri-paint-brush-line" />
-                            <h3><a href="">Magni Dolores</a></h3>
-                        </div>
-                    </div>
-                    <div className="col-xl-2 col-md-4">
-                        <div className="icon-box">
-                            <i className="ri-database-2-line" />
-                            <h3><a href="">Nemos Enimade</a></h3>
-                        </div>
-                    </div>
-                </div>
+
+                </div> */}
             </div>
         </section>
 

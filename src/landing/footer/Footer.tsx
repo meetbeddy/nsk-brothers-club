@@ -16,13 +16,12 @@ function Footer() {
                                     <br />
                                     <strong>Email:</strong>nsukkabrothers8@gmail.com<br />
                                 </p>
-                                {/* <div className="social-links mt-3">
+                                <div className="social-links mt-3">
                                     <a href="#" className="twitter"><i className="bx bxl-twitter" /></a>
                                     <a href="#" className="facebook"><i className="bx bxl-facebook" /></a>
                                     <a href="#" className="instagram"><i className="bx bxl-instagram" /></a>
-                                    <a href="#" className="google-plus"><i className="bx bxl-skype" /></a>
                                     <a href="#" className="linkedin"><i className="bx bxl-linkedin" /></a>
-                                </div> */}
+                                </div>
                             </div>
                         </div>
                         <div className="col-lg-2 col-md-6 footer-links">
@@ -35,18 +34,28 @@ function Footer() {
                                     <i className="bx bx-chevron-right" /> <a href="#">About us</a>
                                 </li>
                                 <li>
-                                    <i className="bx bx-chevron-right" /> <a href="#">Services</a>
+                                    <i className="bx bx-chevron-right" /> <a href="#">Gallery</a>
                                 </li>
                                 <li>
                                     <i className="bx bx-chevron-right" />
-                                    <a href="#">Terms of service</a>
+                                    <a href="#">Executives</a>
                                 </li>
                                 <li>
                                     <i className="bx bx-chevron-right" />
-                                    <a href="#">Privacy policy</a>
+                                    <a href="#">Members</a>
                                 </li>
                             </ul>
                         </div>
+
+                        <div className="col-lg-4 col-md-6 ">
+
+                            <div className="icon-box">
+                                <i className="ri-calendar-todo-line" /> meeting days
+                                <h2>Every Last Sunday of the month</h2>
+                            </div>
+
+                        </div>
+
 
 
                     </div>
