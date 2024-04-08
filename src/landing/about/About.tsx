@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 function About() {
     const [showFullContent, setShowFullContent] = useState(false);
