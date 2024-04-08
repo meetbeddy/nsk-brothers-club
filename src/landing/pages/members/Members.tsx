@@ -1,4 +1,3 @@
-import React from 'react'
 import PageWrapper from '../PageWrapper'
 import data from '../../../data'
 
