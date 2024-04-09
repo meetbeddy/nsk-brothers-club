@@ -1,5 +1,4 @@
 
-
 function Footer() {
     return (
         <footer id="footer">
@@ -14,7 +13,7 @@ function Footer() {
                                     Life Camp Ext, Abuja <br /><br />
                                     <strong>Phone:</strong> +234 803 704 5161
                                     <br />
-                                    <strong>Email:</strong>nsukkabrothers8@gmail.com<br />
+                                    <strong>Email:</strong> nsukkabrothers8@gmail.com<br />
                                 </p>
                                 <div className="social-links mt-3">
                                     <a href="#" className="twitter"><i className="bx bxl-twitter" /></a>
@@ -48,16 +47,13 @@ function Footer() {
                         </div>
 
                         <div className="col-lg-4 col-md-6 ">
-
                             <div className="icon-box">
                                 <i className="ri-calendar-todo-line" /> meeting days
                                 <h2>Every Last Sunday of the month</h2>
                             </div>
-
+                            {/* Add attribution for the image */}
+                            <p>Image by <a href="https://www.freepik.com/free-photo/medium-shot-nigerian-men_16130663.htm?query=igbo#from_view=detail_alsolike">Freepik</a></p>
                         </div>
-
-
-
                     </div>
                 </div>
             </div>
@@ -66,12 +62,10 @@ function Footer() {
                     © Copyright <strong><span>Nsukka Brothers' Club</span></strong>. All Rights Reserved
                 </div>
                 {/* <div className="credits">
-
                     Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
                 </div> */}
             </div>
         </footer>
-
     )
 }
 
