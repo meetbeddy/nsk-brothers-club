@@ -241,4 +241,13 @@ export default {
 			imageURL: "assets/img/executive/default-avatar.png",
 		},
 	],
+	resources: [
+		{
+			icon: "bx bxs-file-doc",
+			title: "Our Constitution",
+			description:
+				"This Document contains our revised constitution dated 25 August 2022",
+			downloadlink: "assets/resources/revised-constitution.pdf",
+		},
+	],
 };

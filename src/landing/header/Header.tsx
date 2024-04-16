@@ -40,13 +40,13 @@ function Header() {
             <div className="container d-flex align-items-center justify-content-lg-between">
                 <h1 className="logo me-auto me-lg-0">
                     <img src="assets/img/eagle.gif" alt="" className="img-fluid" />
-                    <Link to="/">Nsukka <span>Brothers' Club</span></Link>
+                    <Link to="/">The Nsukka <span>Brothers' Club</span></Link>
                 </h1>
                 {/* Uncomment below if you prefer to use an image logo */}
                 {/* <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>*/}
                 <nav id="navbar" className={`navbar order-last order-lg-0 ${isMobileNavOpen ? 'navbar-mobile' : ''}`}>
                     <ul>
-                        <li><a className="nav-link scrollto active" href="#hero">Home</a></li>
+                        <li><a className="nav-link scrollto active" href="/#hero">Home</a></li>
                         <li className="dropdown" >
                             <a href="#" onClick={handleDropdownClick}><span>About us</span> <i className="bi bi-chevron-down" /></a>
                             <ul>
@@ -63,7 +63,7 @@ function Header() {
                         <li>
                             <a className="nav-link scrollto" href="/#gallery">Gallery</a>
                         </li>
-                        <li><Link className="nav-link scrollto" to="/#resources">Resources</Link></li>
+                        <li><Link className="nav-link scrollto" to="/resources">Resources</Link></li>
 
                         <li><a className="nav-link scrollto" href="/#contact">Contact</a></li>
                     </ul>

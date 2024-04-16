@@ -6,6 +6,7 @@ import Executives from './landing/pages/executives/Executives'
 import Members from './landing/pages/members/Members'
 import Membership from './landing/pages/membership/Membership'
 import RegistrationForm from './landing/pages/membership/RegistrationForm'
+import Resouces from './landing/pages/resources/Resouces'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
       <Route path="/membership" element={<Membership />} >
         <Route path="registration" element={<RegistrationForm />} />
       </Route>
+      <Route path="/resources" element={<Resouces />} />
 
     </Routes>
   )
