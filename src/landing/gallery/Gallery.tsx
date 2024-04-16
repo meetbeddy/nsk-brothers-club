@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 
 function Gallery() {
     return (
-        <section id="portfolio" className="portfolio">
+        <section id="gallery" className="portfolio">
             <div className="container" data-aos="fade-up">
                 <div className="section-title">
                     <h2>Gallery</h2>

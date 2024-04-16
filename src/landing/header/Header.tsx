@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Link } from "react-router-dom"
+import { Link, NavLink } from "react-router-dom"
 
 
 
@@ -58,19 +58,19 @@ function Header() {
 
                             </ul>
                         </li>
-                        <li><a className="nav-link scrollto" href="#events">Events</a></li>
-                        <li><a className="nav-link scrollto" href="#events">Membership</a></li>
+                        {/* <li><a className="nav-link scrollto" href="/#events">Events</a></li> */}
+                        <li><NavLink className="nav-link scrollto" to="/membership">Membership</NavLink></li>
                         <li>
-                            <a className="nav-link scrollto" href="#gallery">Gallery</a>
+                            <a className="nav-link scrollto" href="/#gallery">Gallery</a>
                         </li>
-                        <li><Link className="nav-link scrollto" to="#resources">Resources</Link></li>
+                        <li><Link className="nav-link scrollto" to="/#resources">Resources</Link></li>
 
-                        <li><a className="nav-link scrollto" href="#contact">Contact</a></li>
+                        <li><a className="nav-link scrollto" href="/#contact">Contact</a></li>
                     </ul>
                     <i className={`bi bi-list mobile-nav-toggle ${isMobileNavOpen ? 'bi-x' : 'bi-list'}`} onClick={toggleMobileNav} />
                 </nav>
 
-                <a href="#about" className="get-started-btn scrollto">Donate</a>
+                <Link to="/membership" className="get-started-btn scrollto">Join</Link>
             </div>
         </header>
 
