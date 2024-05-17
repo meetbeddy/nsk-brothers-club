@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import data from '../../data'
 
 function Gallery() {
     return (
@@ -10,61 +11,22 @@ function Gallery() {
                 </div>
 
                 <div className="row portfolio-container" data-aos="fade-up" data-aos-delay={200}>
-                    <div className="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div className="portfolio-wrap">
-                            <img src="assets/img/portfolio/image_one.jpg" className="img-fluid" alt="" />
-                            <div className="portfolio-info">
+                    {
+                        data.gallery.map((gal, i) => (
+                            <div className="col-lg-4 col-md-6 portfolio-item filter-app" key={i}>
+                                <div className="portfolio-wrap">
+                                    <img src={gal.url} className="img-fluid" alt="" />
+                                    <div className="portfolio-info">
 
-                                <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/image_one.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-expand" /></a>
+                                        <div className="portfolio-links">
+                                            <a href="assets/img/portfolio/image_one.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-expand" /></a>
 
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div className="portfolio-wrap">
-                            <img src="assets/img/portfolio/image_one.jpg" className="img-fluid" alt="" />
-                            <div className="portfolio-info">
-
-                                <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/image_one.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-expand" /></a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div className="portfolio-wrap">
-                            <img src="assets/img/portfolio/image_one.jpg" className="img-fluid" alt="" />
-                            <div className="portfolio-info">
-
-                                <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/image_one.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-expand" /></a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div className="portfolio-wrap">
-                            <img src="assets/img/portfolio/image_one.jpg" className="img-fluid" alt="" />
-                            <div className="portfolio-info">
-
-                                <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/image_one.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-expand" /></a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-
-
-
-
+                        ))
+                    }
 
                 </div>
                 <div className="row" data-aos="fade-up" data-aos-delay={100}>

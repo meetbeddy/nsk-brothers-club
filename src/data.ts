@@ -250,4 +250,21 @@ export default {
 			downloadlink: "assets/resources/revised-constitution.pdf",
 		},
 	],
+	gallery: [
+		{
+			url: "assets/img/portfolio/image_one.jpg",
+		},
+		{
+			url: "assets/img/gallery/gallery-1.jpg",
+		},
+		{
+			url: "assets/img/gallery/gallery-2.jpg",
+		},
+		{
+			url: "assets/img/gallery/gallery-3.jpg",
+		},
+		{
+			url: "assets/img/gallery/gallery-4.jpg",
+		},
+	],
 };
