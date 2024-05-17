@@ -7,6 +7,7 @@ import Members from './landing/pages/members/Members'
 import Membership from './landing/pages/membership/Membership'
 import RegistrationForm from './landing/pages/membership/RegistrationForm'
 import Resouces from './landing/pages/resources/Resouces'
+import History from './landing/pages/history/History'
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
       <Route path="*" element={<PageNotFound />} />
       <Route path="/" element={<Index />} />
       <Route path="/executives" element={<Executives />} />
+      <Route path="/history" element={<History />} />
       <Route path="/members" element={<Members />} />
       <Route path="/membership" element={<Membership />} >
         <Route path="registration" element={<RegistrationForm />} />

@@ -50,12 +50,10 @@ function Header() {
                         <li className="dropdown" >
                             <a href="#" onClick={handleDropdownClick}><span>About us</span> <i className="bi bi-chevron-down" /></a>
                             <ul>
-
+                                <li><Link to="/history">History</Link></li>
                                 <li><Link to="/members">Members</Link></li>
                                 <li><Link to="/executives">Executive Members</Link></li>
                                 <li><Link to="/past-excos">Past Executives</Link></li>
-
-
                             </ul>
                         </li>
                         {/* <li><a className="nav-link scrollto" href="/#events">Events</a></li> */}
