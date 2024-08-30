@@ -15,7 +15,7 @@ function App() {
 
 
   return (
-    <Routes>\
+    <Routes>
       <Route path="*" element={<PageNotFound />} />
       <Route path="/" element={<Index />} />
       <Route path="/executives" element={<Executives />} />
