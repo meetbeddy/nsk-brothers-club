@@ -263,14 +263,15 @@ export default {
 		{
 			url: "assets/img/gallery/gallery-3.jpg",
 		},
-		{
-			url: "assets/img/gallery/gallery-4.jpg",
-		},
+
 		{
 			url: "assets/img/gallery/gallery-5.jpg",
 		},
 		{
-			url: "assets/img/gallery/gallery-7.jpg",
+			url: "assets/img/gallery/gallery-6.jpg",
 		},
+		// {
+		// 	url: "assets/img/gallery/gallery-7.jpg",
+		// },
 	],
 };

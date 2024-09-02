@@ -8,6 +8,7 @@ import Membership from './landing/pages/membership/Membership'
 import RegistrationForm from './landing/pages/membership/RegistrationForm'
 import Resouces from './landing/pages/resources/Resouces'
 import History from './landing/pages/history/History'
+import Gallery from './landing/pages/gallery/GalleryPage'
 
 function App() {
 
@@ -25,6 +26,7 @@ function App() {
         <Route path="registration" element={<RegistrationForm />} />
       </Route>
       <Route path="/resources" element={<Resouces />} />
+      <Route path="/gallery" element={<Gallery />} />
 
     </Routes>
   )

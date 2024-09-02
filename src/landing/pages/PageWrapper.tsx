@@ -4,20 +4,21 @@ import Footer from "../footer/Footer";
 
 interface PageWrapperProps {
     children: ReactNode;
+    withFooter?: boolean
 }
 
-function PageWrapper(props: PageWrapperProps) {
+function PageWrapper({ children, withFooter = true }: PageWrapperProps) {
     return (
         <div>
             <Header />
             <main id="main">
                 <section className="inner-page">
                     <div className="container" data-aos="fade-up">
-                        {props.children}
+                        {children}
                     </div>
                 </section>
             </main>
-            <Footer />
+            {withFooter && <Footer />}
         </div>
     );
 }
