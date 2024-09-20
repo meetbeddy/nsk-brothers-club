@@ -52,7 +52,7 @@ function Footer() {
                                 <h2>Every Last Sunday of the month</h2>
                             </div>
                             {/* Add attribution for the image */}
-                            <p>Image by <a href="https://www.freepik.com/free-photo/medium-shot-nigerian-men_16130663.htm?query=igbo#from_view=detail_alsolike">Freepik</a></p>
+                            {/* <p>Image by <a href="https://www.freepik.com/free-photo/medium-shot-nigerian-men_16130663.htm?query=igbo#from_view=detail_alsolike">Freepik</a></p> */}
                         </div>
                     </div>
                 </div>
@@ -61,9 +61,6 @@ function Footer() {
                 <div className="copyright">
                     © Copyright <strong><span>Nsukka Brothers' Club</span></strong>. All Rights Reserved
                 </div>
-                {/* <div className="credits">
-                    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-                </div> */}
             </div>
         </footer>
     )

@@ -5,7 +5,7 @@ function Hero() {
             <div className="container" data-aos="fade-up">
                 <div className="row justify-content-center" data-aos="fade-up" data-aos-delay={150}>
                     <div className="col-xl-6 col-lg-8">
-                        <h1>Welcome to The Nsukka Brothers Club<span>.</span></h1>
+                        <h1>Welcome to The Nsukka Brothers Club.</h1>
                         <h2>Celebrating Heritage, Building Community.</h2>
                     </div>
                 </div>
