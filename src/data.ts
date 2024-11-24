@@ -8,7 +8,7 @@ export default {
 		{
 			name: "Cyril Ugwuoke",
 			position: "VICE PRESIDENT",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/ugwuoke-cyril.jpg",
 		},
 		{
 			name: "Emeka Aba",
@@ -81,7 +81,7 @@ export default {
 		{
 			name: "Cyril Ugwuoke",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/ugwuoke-cyril.jpg",
 		},
 	],
 	members: [
@@ -184,9 +184,12 @@ export default {
 			bio: "Chief David Ugwu is the CEO/MD of Kings International Boutique LTD, a leading provider of quality clothing and accessories. The boutique specializes in jeans, chinos trousers, Turkey suits, China suits, shirts, pocket shirts, chieftaincy wears, caps, children's wear, school sandals, and more. Located at Block 14, Shop No. 148, Wuse Modern Market, FCT Abuja, Kings International Boutique LTD is dedicated to offering stylish and affordable apparel for all occasions.",
 		},
 		{
-			name: "Camillus Onuh",
+			name: "Comrade Onuh Camillus",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/onuh-camillus.jpg",
+			phone: "+2348033856813",
+			email: "camicamp8@gmail.com",
+			bio: "Comrade Onuh Camillus is the CEO of Cami Camp Investment Ltd, a company incorporated with the Nigerian Corporate Affairs Commission since 2006. The company specializes in household appliances, including electronics, furniture, generators, and solar and inverter energy systems. With a commitment to the labour market, the company has employed about fifteen workers, contributing to economic growth. Headquartered at The Ruby Center Plaza, Aminu Kano Way, Wuse 2, Abuja, Cami Camp Investment Ltd also operates other outlets across Abuja and its environs and provides delivery services to other states in Nigeria. The company's primary goal is building lasting relationships and ensuring customer satisfaction. Social media: Facebook - Cami Camp Electronics Showroom, Instagram - @CamiCamp6.",
 		},
 		{
 			name: "Comrade Charles Onuh",
@@ -256,9 +259,12 @@ export default {
 			imageURL: "assets/img/executive/default-avatar.png",
 		},
 		{
-			name: "Cyril Ugwuoke",
+			name: "Mr. Ugwuoke Cyril Chukwuemeka",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/ugwuoke-cyril.jpg",
+			phone: "08065447557, 08175447557",
+			email: "",
+			bio: "Mr. Ugwuoke Cyril Chukwuemeka is the CEO of Cyco Integrated Concept Ltd, a company specializing in distributing foreign beverages directly to customers' doorsteps. He is also the CEO of MC Bolac Investment Ltd, with a mission to become a leading service provider in solar energy, construction, and engineering services. The company is driven by core values of commitment to excellence, integrity, and customer satisfaction, aiming to provide high-quality services while maintaining upright business ethics. Cyco Integrated Concept Ltd operates from Blk D118, Wuse Modern Market, Wuse, Abuja.",
 		},
 		{
 			name: "Mr. Omeke Kenneth Okwudili",
