@@ -1,7 +1,7 @@
 /**
 * Template Name: Gp Premium
 * Updated: Jan 29 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
+* Template URL: https://bootstrapmade.com/gp-premium-multipurpose-html-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
