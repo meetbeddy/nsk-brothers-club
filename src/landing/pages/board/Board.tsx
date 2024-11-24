@@ -90,18 +90,18 @@ const SectionTitle = styled.div`
     }
 `;
 
-function Executives() {
+function BoardMembers() {
     return (
         <PageWrapper>
             <section className="container mt-5">
                 <div className="container" data-aos="fade-up">
                     <SectionTitle>
                         <h2>2024</h2>
-                        <p>EXECUTIVE MEMBERS</p>
+                        <p>BOARD OF TRUSTEES</p>
                     </SectionTitle>
 
                     <div className="row g-4">
-                        {data.executiveMembers.map((member, index) => (
+                        {data.boardOfTrustees.map((member, index) => (
                             <div
                                 key={index}
                                 className="col-lg-3 col-md-6"
@@ -130,4 +130,4 @@ function Executives() {
     );
 }
 
-export default Executives;
+export default BoardMembers;

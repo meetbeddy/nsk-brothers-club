@@ -9,6 +9,7 @@ import RegistrationForm from './landing/pages/membership/RegistrationForm'
 import Resouces from './landing/pages/resources/Resouces'
 import History from './landing/pages/history/History'
 import Gallery from './landing/pages/gallery/GalleryPage'
+import Board from './landing/board/Board'
 
 function App() {
 
