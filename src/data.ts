@@ -208,7 +208,10 @@ export default {
 		{
 			name: "Anselm Onugwu",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/anselem-onugwu.jpg",
+			phone: "08035968925",
+			email: "worldwide785@gmail.com",
+			bio: "Mr. Anselem Onugwu is the CEO of Anseson Worldwide Nig Ltd, a distributor for Longxiang Aluminium Company Ltd, and a contractor specializing in all kinds of building construction. Based at Block 7, No. 14 Habitat Plaza, Aluminium Village, Kaduna Road, Abuja, he is a dedicated professional with extensive experience in the aluminium and construction industries.",
 		},
 		{
 			name: "Martins Idokoja",
