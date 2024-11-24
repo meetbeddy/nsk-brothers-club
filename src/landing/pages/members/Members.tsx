@@ -127,8 +127,8 @@ const Members = () => {
             <section className="container mt-3">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title text-center mb-5">
-                        <h2>Our Team Members</h2>
-                        <p className="text-muted mt-2">Meet our dedicated team of professionals</p>
+                        <h2>Members</h2>
+                        <p className="text-muted mt-2">Meet our esteemed members</p>
                     </div>
                     <div className="row d-flex flex-wrap justify-content-center align-items-stretch g-4">
                         {data.members.map((member, index) => (
