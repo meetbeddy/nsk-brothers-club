@@ -9,6 +9,7 @@ import RegistrationForm from './landing/pages/membership/RegistrationForm'
 import Resouces from './landing/pages/resources/Resouces'
 import History from './landing/pages/history/History'
 import Gallery from './landing/pages/gallery/GalleryPage'
+import Anthem from './landing/pages/anthem/Anthem'
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
       <Route path="/executives" element={<Executives />} />
       <Route path="/history" element={<History />} />
       <Route path="/members" element={<Members />} />
+      <Route path="/anthem" element={<Anthem />} />
       <Route path="/membership" element={<Membership />} >
         <Route path="registration" element={<RegistrationForm />} />
       </Route>
