@@ -88,7 +88,10 @@ export default {
 		{
 			name: "Chinedu Ekeh",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/chinedu ekeh.jpg",
+			phone: "",
+			email: "",
+			bio: "Chinedu Ekeh holds a B. Sc., M. Sc., PMP, and MBA, and is a highly resourceful, creative, and strategic leader with exceptional competence in leveraging business intelligence and often-overlooked intangible attributes to drive extraordinary positive outcomes. He is a Consultant at BOM Consulting Ltd. Outside his professional endeavors, Chinedu enjoys reading, networking, and watching football.",
 		},
 		{
 			name: "Sir Emeka Aba (KSM)",
@@ -303,27 +306,30 @@ export default {
 		},
 	],
 	gallery: [
-		{
-			url: "assets/img/portfolio/image_one.jpg",
-		},
-		{
-			url: "assets/img/gallery/gallery-1.jpg",
-		},
-		{
-			url: "assets/img/gallery/gallery-2.jpg",
-		},
-		{
-			url: "assets/img/gallery/gallery-3.jpg",
-		},
-
-		{
-			url: "assets/img/gallery/gallery-5.jpg",
-		},
-		{
-			url: "assets/img/gallery/gallery-6.jpg",
-		},
-		// {
-		// 	url: "assets/img/gallery/gallery-7.jpg",
-		// },
+		{ url: "assets/img/gallery/gallery (1).jpg" },
+		{ url: "assets/img/gallery/gallery (2).jpg" },
+		{ url: "assets/img/gallery/gallery (3).jpg" },
+		{ url: "assets/img/gallery/gallery (4).jpg" },
+		{ url: "assets/img/gallery/gallery (5).jpg" },
+		{ url: "assets/img/gallery/gallery (6).jpg" },
+		{ url: "assets/img/gallery/gallery (7).jpg" },
+		{ url: "assets/img/gallery/gallery (8).jpg" },
+		{ url: "assets/img/gallery/gallery (9).jpg" },
+		{ url: "assets/img/gallery/gallery (10).jpg" },
+		{ url: "assets/img/gallery/gallery (11).jpg" },
+		{ url: "assets/img/gallery/gallery (12).jpg" },
+		{ url: "assets/img/gallery/gallery (13).jpg" },
+		{ url: "assets/img/gallery/gallery (14).jpg" },
+		{ url: "assets/img/gallery/gallery (15).jpg" },
+		{ url: "assets/img/gallery/gallery (16).jpg" },
+		{ url: "assets/img/gallery/gallery (17).jpg" },
+		{ url: "assets/img/gallery/gallery (18).jpg" },
+		{ url: "assets/img/gallery/gallery (19).jpg" },
+		{ url: "assets/img/portfolio/image_one.jpg" },
+		{ url: "assets/img/gallery/gallery-1.jpg" },
+		{ url: "assets/img/gallery/gallery-2.jpg" },
+		{ url: "assets/img/gallery/gallery-3.jpg" },
+		{ url: "assets/img/gallery/gallery-5.jpg" },
+		{ url: "assets/img/gallery/gallery-6.jpg" },
 	],
 };
