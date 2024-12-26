@@ -52,7 +52,7 @@ function Header() {
                             <ul>
                                 <li><Link to="/history">History</Link></li>
                                 <li><Link to="/executives">Executive Members</Link></li>
-                                <li><Link to="/board-of-trustees">Board of Trustees</Link></li>
+                                {/* <li><Link to="/board-of-trustees">Board of Trustees</Link></li> */}
                                 <li><Link to="/members">Members</Link></li>
                                 <li><Link to="/anthem">Our Anthem</Link></li>
                             </ul>
