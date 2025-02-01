@@ -6,7 +6,7 @@ function Anthem() {
             <section className="container mt-3">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title text-center mb-4">
-                        <h2 className="display-4 mb-3">Our Anthem</h2>
+                        <h2 className="display-4 mb-3">Our Anthems</h2>
                     </div>
 
                     <div className="row justify-content-center">
@@ -23,6 +23,28 @@ function Anthem() {
                                         >
                                             Your browser does not support the audio element.
                                         </audio>
+                                    </div>
+
+
+                                </div>
+                                <div className="card shadow-sm">
+                                    <div className="card-body">
+                                        <div className="lyrics">
+                                            <p className="lead mb-3">
+                                                Anyi bu umu afọ Nsukka,eji mara anyi but Nsukka brothers club.
+                                                <br />
+                                                Anyi bu ndi ezi enyi, nwere ofu obi Na nkwekọrita.
+                                                <br />
+                                                Anyi kwere Na otu chineke,onye kere uwa Nile.
+                                                <br />
+                                                Anyi gwuzoro Na odimma Nsukka,Na odimma uwa Nile.<br />
+                                                Ifunanya ka anyi Ji biri wee Na aga.<br />
+                                                Otutu aha Anyi bu... COMRADE!! BROTHERS.
+
+
+
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

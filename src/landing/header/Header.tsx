@@ -54,7 +54,7 @@ function Header() {
                                 <li><Link to="/executives">Executive Members</Link></li>
                                 {/* <li><Link to="/board-of-trustees">Board of Trustees</Link></li> */}
                                 <li><Link to="/members">Members</Link></li>
-                                <li><Link to="/anthem">Our Anthem</Link></li>
+                                <li><Link to="/anthem">Our Anthems</Link></li>
                             </ul>
                         </li>
                         {/* <li><a className="nav-link scrollto" href="/#events">Events</a></li> */}
