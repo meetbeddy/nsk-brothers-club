@@ -3,7 +3,7 @@ export default {
 		{
 			name: "Chinedu Ekeh",
 			position: "PRESIDENT",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/chinedu ekeh.jpg",
 		},
 		{
 			name: "Cyril Ugwuoke",
