@@ -97,7 +97,6 @@ const Members = () => {
     const handleOpenModal = (member: Member) => {
         setIsLoading(true);
         setSelectedMember(member);
-        // Simulate loading of additional member details
         setTimeout(() => setIsLoading(false), 500);
     };
 

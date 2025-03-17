@@ -18,7 +18,7 @@ export default {
 		{
 			name: "Fredrick Mba",
 			position: "ASSISTANT SECRETARY",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/mba-frederick.jpg",
 		},
 		{
 			name: "Ibeh Asogwa",
@@ -28,7 +28,7 @@ export default {
 		{
 			name: "Levi Onoja",
 			position: "FINANCIAL SECRETARY",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/onoja-levi.jpg",
 		},
 		{
 			name: "James Urama",
@@ -61,7 +61,7 @@ export default {
 		{
 			name: "Fredrick Mba",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/mba-frederick.jpg",
 		},
 		{
 			name: "Ibeh Asogwa",
@@ -71,7 +71,7 @@ export default {
 		{
 			name: "Levi Onoja",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/onoja-levi.jpg",
 		},
 		{
 			name: "Ifeanyi Ujah",
@@ -93,6 +93,15 @@ export default {
 			email: "",
 			bio: "Chinedu Ekeh holds a B. Sc., M. Sc., PMP, and MBA, and is a highly resourceful, creative, and strategic leader with exceptional competence in leveraging business intelligence and often-overlooked intangible attributes to drive extraordinary positive outcomes. He is a Consultant at BOM Consulting Ltd. Outside his professional endeavors, Chinedu enjoys reading, networking, and watching football.",
 		},
+		{
+			name: "Mba Frederick O",
+			position: "MEMBER",
+			imageURL: "assets/img/members/mba-frederick.jpg",
+			phone: "08033334345, 08036238644",
+			email: "mbamain@yahoo.com",
+			bio: "Mba Frederick O is the CEO of Fredo Associates Intl Ltd, a trusted name in the supply of stationeries, computer accessories, and office equipment. With a strong commitment to quality and reliability, the company serves businesses and individuals with top-grade products. Fredo Associates Intl Ltd operates from Warehouse 121, Utako Market, FCT, Abuja, and Block A8, Shop 4, Wuse Modern Market, ensuring easy access to premium office solutions. With a reputation built on excellence, the company remains a go-to destination for office essentials.",
+		},
+
 		{
 			name: "Sir Emeka Aba (KSM)",
 			position: "MEMBER",
@@ -120,10 +129,14 @@ export default {
 			imageURL: "assets/img/executive/default-avatar.png",
 		},
 		{
-			name: "Levi Onoja",
+			name: "Comrade Onoja Levi",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/onoja-levi.jpg",
+			phone: "08050552626",
+			email: "",
+			bio: "Comrade Onoja Levi is a skilled and prudent manager, widely recognized as an enigma in interior and exterior decoration. As the CEO of Onowax Noble Limited, he has built a reputation for excellence in contracting and general merchandise, delivering high-quality solutions tailored to client needs. A passionate reader of news and history, Comrade Onoja Levi combines his business acumen with a deep understanding of design and construction to create exceptional living and working spaces.",
 		},
+
 		{
 			name: "Mr. James Urama",
 			position: "MEMBER",
@@ -151,6 +164,14 @@ export default {
 			email: "",
 			bio: "Paschal Elengwu is the Executive Director at Global Services Ltd, a company specializing in wood and building materials. As general merchants, they offer a wide range of high-quality products to meet the needs of their clients. The company is headquartered at Block L5, Shop 124, International Timber Shed, Dei-Dei, Abuja F.C.T. Their motto, 'Tested and Trusted,' reflects their commitment to excellence and reliability in the industry.",
 		},
+		{
+			name: "Obetta Peter Chijioke",
+			position: "MEMBER",
+			imageURL: "assets/img/members/obetta-cjpeters.jpg",
+			phone: "",
+			email: "",
+			bio: "Obetta Peter Chijioke, popularly known as Obetta CJPeters, is a renowned health-tech entrepreneur, certified pharmacist, and healthcare practitioner. Born on August 24, 1982, he is the founder and CEO of Health Hub Pharmaceutical Ltd, a leading player in the pharmaceutical and health-tech industry. With a wealth of experience, he also serves on the boards of several companies, contributing his expertise to the advancement of healthcare and business innovation in Nigeria.",
+		},
 
 		{
 			name: "Ifeanyi Ujah",
@@ -174,10 +195,14 @@ export default {
 			bio: "Chief Bonaventure Ezea is the MD/CEO of BONAVEE INVEST. CO NIG. LTD., a leading supplier of wines, hot drinks, and beverages. The company also specializes in event management and general contracting. Located at DGF 1 K-City Plaza, Plot 528 Aminu Kano Crescent, Wuse II, Abuja, BONAVEE INVEST. CO NIG. LTD. is dedicated to making every occasion a success, prioritizing client satisfaction and excellence in service.",
 		},
 		{
-			name: "Kenneth Odo",
+			name: "Mr. Kenneth Egwuatuchi Odo",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/kenneth-odo.jpg",
+			phone: "08033938587",
+			email: "kendoglobal@gmail.com, odokenneth17@gmail.com",
+			bio: "Mr. Kenneth Egwuatuchi Odo is the CEO of Kendo Global Ventures Ltd, a leading importer and distributor of premium-quality bags, including luggage, conference bags, backpacks, and more. With a strong commitment to excellence, Kendo Global Ventures Ltd provides a diverse range of stylish and durable bags tailored to meet various needs. The company operates from its head office at D2 LS 04, Utako Mall, FCT, Abuja, ensuring accessibility and top-notch customer service.",
 		},
+
 		{
 			name: "Chief David Ugwu",
 			position: "MEMBER",
@@ -208,10 +233,14 @@ export default {
 			imageURL: "assets/img/executive/default-avatar.png",
 		},
 		{
-			name: "Micheal Odo",
+			name: "Michael Odo",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/michael-odo.jpg",
+			phone: "08035972983",
+			email: "",
+			bio: "Michael Odo is the founder and CEO of 5:3 Agro, Vet and Farms, a leading agricultural enterprise located along Keffi Expressway, Gora, Nasarawa State. The farm specializes in livestock farming, including poultry, piggery, fishery, and goats, as well as crop and vegetable farming. With a commitment to sustainable agriculture and high-quality production, 5:3 Agro, Vet and Farms provides nutritious food products and reliable livestock solutions to meet the growing demands of the agricultural sector.",
 		},
+
 		{
 			name: "Oliver Eze",
 			position: "MEMBER",
@@ -236,9 +265,12 @@ export default {
 			imageURL: "assets/img/executive/default-avatar.png",
 		},
 		{
-			name: "Ifeanyi Eze Kenneth",
+			name: "Mr. Ezeh Kenneth Ifeanyi",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/ezeh-kenneth.jpg",
+			phone: "",
+			email: "",
+			bio: "Mr. Ezeh Kenneth Ifeanyi is the CEO/MD of Anyikenz Nigeria Limited, a trusted name in the distribution, importation, and retail of high-quality shoe materials. His company specializes in sole, maco, gum, nora, superglue, and general goods, serving a wide range of customers in the footwear and manufacturing industry. Anyikenz Nigeria Limited is strategically located at Shop 727/728, Nyanya Old Motor Park, Abuja, FCT, ensuring accessibility and convenience for clients seeking premium materials and reliable service.",
 		},
 		{
 			name: "Mr. Ugwu Johnkingsley",
@@ -257,10 +289,14 @@ export default {
 			bio: "Mr. Anselem Onugwu is the CEO of Anseson Worldwide Nig Ltd, a distributor for Longxiang Aluminium Company Ltd, and a contractor specializing in all kinds of building construction. Based at Block 7, No. 14 Habitat Plaza, Aluminium Village, Kaduna Road, Abuja, he is a dedicated professional with extensive experience in the aluminium and construction industries.",
 		},
 		{
-			name: "Martins Idokoja",
+			name: "Comrade Martins Idokoja",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/martins-idokoja.jpg",
+			phone: "08036099725",
+			email: "",
+			bio: "Comrade Martins Idokoja is the MD/CEO of De Auto Martins Integrated Nig Ltd, a trusted name in the automotive industry. The company specializes in the sales of all brands of new tyres, batteries, and alloy wheels, ensuring customers receive high-quality and durable products. De Auto Martins Integrated Nig Ltd also offers professional wheel balancing and both front and back alignment services, delivering precision and safety to vehicle owners.",
 		},
+
 		{
 			name: "Mr. Ugwuoke Cyril Chukwuemeka",
 			position: "MEMBER",
@@ -286,10 +322,23 @@ export default {
 			bio: "Ali Amobi Maurice is a Superintendent of Customs with expertise in International Financial Reporting Standards (IFRSs) and Non-Intrusive Inspection Technology (NIIT). He is based at Office 3, Abidjan Street, Wuse Zone 3, Abuja, and brings extensive knowledge and experience in customs operations and financial reporting.",
 		},
 		{
-			name: "Onyebuchi Mamah",
+			name: "Chief Osita Stephen Alumona",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/osita-alumona.jpg",
+			phone: "08036186992, 08058618362",
+			email: "ossymillion@gmail.com",
+			bio: "Chief Osita Stephen Alumona is the CEO/MD of Ossy Million Global Trust Ltd, a leading name in the building materials industry. With a specialization in high-quality tiles and marble, both foreign and Nigerian, the company is a key distributor for top manufacturers in Nigeria, including Virony Company, Royal Castle Ceramic Company, B.N Ceramics Company, and many more. Ossy Million Global Trust Ltd operates from its head office at Suite A1, Royal Plaza, Dei Dei Junction, Abuja, FCT, with a branch office at Suite B3-214, Dei Dei International Building Materials Market, Abuja, ensuring premium products and exceptional service to its clients.",
 		},
+
+		{
+			name: "Onyebuchi Wilfred Mamah Ezeh",
+			position: "MEMBER",
+			imageURL: "assets/img/members/onyebuchi-ezeh.jpg",
+			phone: "08037866183",
+			email: "",
+			bio: "Onyebuchi Wilfred Mamah Ezeh is the MD/CEO of Buchi Furnishing Complex Ltd, a distinguished importer and exporter of high-quality Turkish and Chinese curtains, curtain blinds, bed sheets, cushion cover fabrics, and all forms of interior décor. With a reputation for excellence in service delivery, Buchi Furnishing Complex Ltd also engages in general contracting and merchandise. Strategically located at Black A29, Shop 5, Wuse Market, Abuja, the company ensures top-tier products and outstanding customer satisfaction. Contact us today for premium furnishing solutions—a trial will convince you.",
+		},
+
 		{
 			name: "Oliver David Onyeke",
 			position: "MEMBER",
