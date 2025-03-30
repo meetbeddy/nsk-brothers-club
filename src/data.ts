@@ -94,12 +94,12 @@ export default {
 			bio: "Chinedu Ekeh holds a B. Sc., M. Sc., PMP, and MBA, and is a highly resourceful, creative, and strategic leader with exceptional competence in leveraging business intelligence and often-overlooked intangible attributes to drive extraordinary positive outcomes. He is a Consultant at BOM Consulting Ltd. Outside his professional endeavors, Chinedu enjoys reading, networking, and watching football.",
 		},
 		{
-			name: "Mba Frederick O",
+			name: "Mr. Cyril Chukwuemeka Ugwuoke",
 			position: "MEMBER",
-			imageURL: "assets/img/members/mba-frederick.jpg",
-			phone: "08033334345, 08036238644",
-			email: "mbamain@yahoo.com",
-			bio: "Mba Frederick O is the CEO of Fredo Associates Intl Ltd, a trusted name in the supply of stationeries, computer accessories, and office equipment. With a strong commitment to quality and reliability, the company serves businesses and individuals with top-grade products. Fredo Associates Intl Ltd operates from Warehouse 121, Utako Market, FCT, Abuja, and Block A8, Shop 4, Wuse Modern Market, ensuring easy access to premium office solutions. With a reputation built on excellence, the company remains a go-to destination for office essentials.",
+			imageURL: "assets/img/members/ugwuoke-cyril.jpg",
+			phone: "08065447557, 08175447557",
+			email: "",
+			bio: "Mr. Cyril Chukwuemeka Ugwuoke is the CEO of Cyco Integrated Concept Ltd, a company specializing in distributing foreign beverages directly to customers' doorsteps. He is also the CEO of MC Bolac Investment Ltd, with a mission to become a leading service provider in solar energy, construction, and engineering services. The company is driven by core values of commitment to excellence, integrity, and customer satisfaction, aiming to provide high-quality services while maintaining upright business ethics. Cyco Integrated Concept Ltd operates from Blk D118, Wuse Modern Market, Wuse, Abuja.",
 		},
 
 		{
@@ -111,12 +111,12 @@ export default {
 			bio: "Sir Emeka Aba (KSM) is the founder of Emto Conglomerate, a leader in interior design, construction, real estate, and investment. Since its establishment, Emto Conglomerate has been dedicated to providing innovative solutions and high-quality services tailored to meet the unique needs of its clients. Headquartered at Emto Plaza, Plot C9, 4th Avenue, Gwarinpa Estate, the company also operates a branch office at Suite F9, Say Plaza, A.E. Ekukinam Street, Utako, Abuja, ensuring seamless operations and client accessibility.",
 		},
 		{
-			name: "Mr. Eze Godwin Okechukwu",
+			name: "Mr. Godwin Okechukwu Eze ",
 			position: "MEMBER",
 			imageURL: "assets/img/members/eze-godwin.jpg",
 			phone: "",
 			email: "",
-			bio: "Mr. Eze Godwin Okechukwu is the CEO/MD of Great Okeyson Investment Concept Ltd, a prominent importer and exporter of England materials, electrical and electronic goods, building materials, and general contracting services. Located at Shop M2, Gudu Market, FCT Abuja, Great Okeyson Investment Concept Ltd is known for providing high-quality products and services that cater to a wide range of client needs.",
+			bio: "Mr. Godwin Okechukwu Eze is the CEO/MD of Great Okeyson Investment Concept Ltd, a prominent importer and exporter of England materials, electrical and electronic goods, building materials, and general contracting services. Located at Shop M2, Gudu Market, FCT Abuja, Great Okeyson Investment Concept Ltd is known for providing high-quality products and services that cater to a wide range of client needs.",
 		},
 		{
 			name: "Ibeh Asogwa",
@@ -124,9 +124,12 @@ export default {
 			imageURL: "assets/img/executive/default-avatar.png",
 		},
 		{
-			name: "Fred Mba",
+			name: "Mba Frederick O",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/mba-frederick.jpg",
+			phone: "08033334345, 08036238644",
+			email: "mbamain@yahoo.com",
+			bio: "Mba Frederick O is the CEO of Fredo Associates Intl Ltd, a trusted name in the supply of stationeries, computer accessories, and office equipment. With a strong commitment to quality and reliability, the company serves businesses and individuals with top-grade products. Fredo Associates Intl Ltd operates from Warehouse 121, Utako Market, FCT, Abuja, and Block A8, Shop 4, Wuse Modern Market, ensuring easy access to premium office solutions. With a reputation built on excellence, the company remains a go-to destination for office essentials.",
 		},
 		{
 			name: "Comrade Onoja Levi",
@@ -151,11 +154,7 @@ export default {
 			position: "MEMBER",
 			imageURL: "assets/img/executive/default-avatar.png",
 		},
-		{
-			name: "Okey Eze",
-			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
-		},
+
 		{
 			name: "Paschal Elengwu",
 			position: "MEMBER",
@@ -212,7 +211,7 @@ export default {
 			bio: "Chief David Ugwu is the CEO/MD of Kings International Boutique LTD, a leading provider of quality clothing and accessories. The boutique specializes in jeans, chinos trousers, Turkey suits, China suits, shirts, pocket shirts, chieftaincy wears, caps, children's wear, school sandals, and more. Located at Block 14, Shop No. 148, Wuse Modern Market, FCT Abuja, Kings International Boutique LTD is dedicated to offering stylish and affordable apparel for all occasions.",
 		},
 		{
-			name: "Comrade Onuh Camillus",
+			name: "Comrade Camillus Onuh",
 			position: "MEMBER",
 			imageURL: "assets/img/members/onuh-camillus.jpg",
 			phone: "+2348033856813",
@@ -265,7 +264,7 @@ export default {
 			imageURL: "assets/img/executive/default-avatar.png",
 		},
 		{
-			name: "Mr. Ezeh Kenneth Ifeanyi",
+			name: "Mr.Kenneth Ifeanyi Ezeh",
 			position: "MEMBER",
 			imageURL: "assets/img/members/ezeh-kenneth.jpg",
 			phone: "",
@@ -273,7 +272,7 @@ export default {
 			bio: "Mr. Ezeh Kenneth Ifeanyi is the CEO/MD of Anyikenz Nigeria Limited, a trusted name in the distribution, importation, and retail of high-quality shoe materials. His company specializes in sole, maco, gum, nora, superglue, and general goods, serving a wide range of customers in the footwear and manufacturing industry. Anyikenz Nigeria Limited is strategically located at Shop 727/728, Nyanya Old Motor Park, Abuja, FCT, ensuring accessibility and convenience for clients seeking premium materials and reliable service.",
 		},
 		{
-			name: "Mr. Ugwu Johnkingsley",
+			name: "Mr. Johnkingsley Ugwu",
 			position: "MEMBER",
 			imageURL: "assets/img/members/ugwu-kingsley.jpg",
 			phone: "",
@@ -298,28 +297,20 @@ export default {
 		},
 
 		{
-			name: "Mr. Ugwuoke Cyril Chukwuemeka",
-			position: "MEMBER",
-			imageURL: "assets/img/members/ugwuoke-cyril.jpg",
-			phone: "08065447557, 08175447557",
-			email: "",
-			bio: "Mr. Ugwuoke Cyril Chukwuemeka is the CEO of Cyco Integrated Concept Ltd, a company specializing in distributing foreign beverages directly to customers' doorsteps. He is also the CEO of MC Bolac Investment Ltd, with a mission to become a leading service provider in solar energy, construction, and engineering services. The company is driven by core values of commitment to excellence, integrity, and customer satisfaction, aiming to provide high-quality services while maintaining upright business ethics. Cyco Integrated Concept Ltd operates from Blk D118, Wuse Modern Market, Wuse, Abuja.",
-		},
-		{
-			name: "Mr. Omeke Kenneth Okwudili",
+			name: "Mr. Kenneth Okwudili Omeke",
 			position: "MEMBER",
 			imageURL: "assets/img/members/omeke-kenneth.jpg",
 			phone: "08036727833, 0909038904427",
 			email: "",
-			bio: "Mr. Omeke Kenneth Okwudili is the CEO/MD of Kenomek Int Nig Ltd, a leading dealer in all kinds of welding materials, including iron pipes, iron rods, and general goods. The company operates from No E2 & E3 Maraba Iron Dealers Ass Market, Sharp Corner, behind Chess Pub, along Assembly of God Road. Kenomek Int Nig Ltd is known for providing high-quality welding materials and services to its customers.",
+			bio: "Mr. Kenneth Okwudili Omeke is the CEO/MD of Kenomek Int Nig Ltd, a leading dealer in all kinds of welding materials, including iron pipes, iron rods, and general goods. The company operates from No E2 & E3 Maraba Iron Dealers Ass Market, Sharp Corner, behind Chess Pub, along Assembly of God Road. Kenomek Int Nig Ltd is known for providing high-quality welding materials and services to its customers.",
 		},
 		{
-			name: "Ali Amobi Maurice",
+			name: "Amobi Maurice Ali",
 			position: "MEMBER",
 			imageURL: "assets/img/members/amobi-maurice.jpg",
 			phone: "08063511800",
 			email: "",
-			bio: "Ali Amobi Maurice is a Superintendent of Customs with expertise in International Financial Reporting Standards (IFRSs) and Non-Intrusive Inspection Technology (NIIT). He is based at Office 3, Abidjan Street, Wuse Zone 3, Abuja, and brings extensive knowledge and experience in customs operations and financial reporting.",
+			bio: "Amobi Maurice Ali is a Superintendent of Customs with expertise in International Financial Reporting Standards (IFRSs) and Non-Intrusive Inspection Technology (NIIT). He is based at Office 3, Abidjan Street, Wuse Zone 3, Abuja, and brings extensive knowledge and experience in customs operations and financial reporting.",
 		},
 		{
 			name: "Chief Osita Stephen Alumona",
