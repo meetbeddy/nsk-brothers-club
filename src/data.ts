@@ -76,7 +76,7 @@ export default {
 		{
 			name: "Ifeanyi Ujah",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/ifeanyi-ujah.jpg",
 		},
 		{
 			name: "Cyril Ugwuoke",
@@ -175,7 +175,10 @@ export default {
 		{
 			name: "Ifeanyi Ujah",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/ifeanyi-ujah.jpg",
+			phone: "08033298129",
+			email: "Sosocurtains@gmail.com",
+			bio: "Ifeanyi Ujah is the CEO/MD of SOSO Furnishing Ltd., a distinguished brand in the interior décor and home furnishing industry. Specializing in premium-quality curtains, blinds, and accessories, the company is known for delivering elegant and functional interior solutions tailored to clients' unique tastes. The company operates from its head office, offering bespoke furnishing services and top-tier products that redefine comfort and style in homes and commercial spaces across Nigeria."
 		},
 		{
 			name: "Ngwu Eugene Ogbonnaya",
@@ -229,7 +232,11 @@ export default {
 		{
 			name: "Valentine Nwodo",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/valentine-nwodo1.jpg",
+			phone: "08055144020",
+			email:"valolivet@yahoo.com",
+			bio: "Comrade Valentine Nwodo is the CEO/MD of VTino Industry Ltd Building Material Hub, a trusted name in the supply of high-quality construction materials. The company specializes in quarry products, including dust, stone base, chippings, and also operates a block industry. In addition to his business ventures, he is the founder of Valintino Empowerment Foundation, through which he has empowered and supported numerous individuals across Enugu State. With a strong presence in both real estate and philanthropy, Comrade Valentine Nwodo continues to make a lasting impact in his community. For more information, visit [www.valintino-ef.com](http://www.valintino-ef.com).",
+
 		},
 		{
 			name: "Michael Odo",
@@ -248,7 +255,10 @@ export default {
 		{
 			name: "Celestine Ogbu",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/celestine-ogbu.jpg",
+			phone: "08033143562",
+			email: "",
+			bio:"Hon. Celestine Ogbu is a grassroot politician, philanthropist and the CEO of CELON INVESTMENT CO LTD(CICL). He is an Eago Distributor; Jacuzzi, Bathroom Accessories, Plumbing tiles, Iron Rod and Electricals dealer. Celon Investment Co. Ltd operates from its head office at Nandu Plaza, Wuse Zone 5, opposite Anbeez Plaza, beside Old CAC, with shops 1, 2, 3, and 4 serving as key retail points. With several branch offices across the region, CICL is committed to delivering premium products and exceptional service to its growing clientele.",
 		},
 		{
 			name: "Chika Donatus Ugwuanyi",
@@ -261,7 +271,10 @@ export default {
 		{
 			name: "Kenneth Okenyi",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/okenyi-kenneth.jpg",
+			phone: "08131670973",
+			email: "",
+			bio:"Comrade Okenyi Kenneth Egwuatu is the CEO/MD of Kenndo Block Industry Nig. Ltd. Renowned for delivering high-quality concrete blocks and construction solutions, the company has built a solid reputation for reliability and excellence in service delivery. Kenndo Block Industry Nig. Ltd operates from its head office located behind Pascal Academy, UND Street, Kabayi Area office."
 		},
 		{
 			name: "Mr.Kenneth Ifeanyi Ezeh",
