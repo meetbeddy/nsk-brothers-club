@@ -38,7 +38,7 @@ export default {
 		{
 			name: "Ignatius Idoko",
 			position: "CHIEF PROVOST",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/ignatius-ifeanyi-idoko.jpg",
 		},
 		{
 			name: "Okechukwu Eze",
@@ -152,7 +152,10 @@ export default {
 		{
 			name: "Ignatius Idoko",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/ignatius-ifeanyi-idoko.jpg",
+			phone: "08033032264",
+			email: "igidoko@gmail.com",
+			bio: "Comrade Ignatius Ifeanyi Idoko is the CEO of Ignel Investments Ltd, a reputable dealer in high-quality traveling boxes, conference bags, and office bags. Renowned for offering durable and stylish products, Ignel Investments Ltd caters to both individual and corporate needs with a focus on quality and customer satisfaction. The company operates from its head office at Block B21, Shop 5, Wuse Modern Market, Abuja, Nigeria, ensuring convenient access and exceptional service.",
 		},
 
 		{
