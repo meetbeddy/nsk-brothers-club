@@ -349,7 +349,10 @@ export default {
 		{
 			name: "Oliver David Onyeke",
 			position: "MEMBER",
-			imageURL: "assets/img/executive/default-avatar.png",
+			imageURL: "assets/img/members/oliver-david.jpg",
+			phone:"08033146911",
+			email:"oliverdavid1212@gmail.com",
+			bio:"Oliver David Onyeke is the MD/CEO of a reputable Mercedes-Benz auto business located at Shop 23, Lagos Line, Apo Mechanic Village, Abuja. He specializes in the sales and services of all models of Mercedes-Benz vehicles, offering a wide range of genuine spare parts for models such as E-Class (211, 212, 213), C-Class (204, 205, 264, 256), GLK, G-Wagon (all years), GLE, GLC, GLS, and S-Class (221, 222, 223).With a strong focus on engines, body parts, suspensions, and undercarriage systems, Oliver David Onyeke delivers expert solutions to Mercedes-Benz owners seeking quality and reliability. Renowned for excellence and professionalism, he remains a trusted name for all your Mercedes-Benz needs",
 		},
 	],
 	resources: [
