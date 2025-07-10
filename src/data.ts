@@ -354,6 +354,14 @@ export default {
 			email:"oliverdavid1212@gmail.com",
 			bio:"Oliver David Onyeke is the MD/CEO of a reputable Mercedes-Benz auto business located at Shop 23, Lagos Line, Apo Mechanic Village, Abuja. He specializes in the sales and services of all models of Mercedes-Benz vehicles, offering a wide range of genuine spare parts for models such as E-Class (211, 212, 213), C-Class (204, 205, 264, 256), GLK, G-Wagon (all years), GLE, GLC, GLS, and S-Class (221, 222, 223).With a strong focus on engines, body parts, suspensions, and undercarriage systems, Oliver David Onyeke delivers expert solutions to Mercedes-Benz owners seeking quality and reliability. Renowned for excellence and professionalism, he remains a trusted name for all your Mercedes-Benz needs",
 		},
+		{
+			name: "Bar. Chibuzor C. Ezike  LLM, NOTARY PUBLIC",
+			position: "MEMBER",
+			imageURL: "assets/img/members/chibuzor-ezike.jpg",
+			phone: "08032337990, 08121433917",
+			email: "chibuzorezikeesq@gmail.com, chibuzorezikeesq@yahoo.com",
+			bio: "Chibuzor C. Ezike & Co. – Que Sera Sera Chambers is a respected law firm known for integrity and professionalism, the firm is dedicated to delivering effective legal solutions.Visit us at Suite F35/38, Efab Mall Extension, Area 11, Garki, Abuja.",
+		},
 	],
 	resources: [
 		{
