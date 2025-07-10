@@ -360,7 +360,7 @@ export default {
 			imageURL: "assets/img/members/chibuzor-ezike.jpg",
 			phone: "08032337990, 08121433917",
 			email: "chibuzorezikeesq@gmail.com, chibuzorezikeesq@yahoo.com",
-			bio: "Chibuzor C. Ezike & Co. – Que Sera Sera Chambers is a respected law firm offering expert legal services in litigation, corporate law, and general legal advisory. Known for integrity and professionalism, the firm is dedicated to delivering effective legal solutions.Visit us at Suite F35/38, Efab Mall Extension, Area 11, Garki, Abuja.",
+			bio: "Chibuzor C. Ezike & Co. – Que Sera Sera Chambers is a respected law firm known for integrity and professionalism, the firm is dedicated to delivering effective legal solutions.Visit us at Suite F35/38, Efab Mall Extension, Area 11, Garki, Abuja.",
 		},
 	],
 	resources: [
